@@ -1,5 +1,4 @@
 {
-  "homepage": "https://tamilrahul05.github.io/E_commerce_FrontEnd",
   "name": "ecommerce-frontend",
   "version": "1.0.0",
   "private": true,
@@ -15,9 +14,7 @@
     "dev": "vite",
     "react-javascript": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "eslintConfig": {
     "extends": [
